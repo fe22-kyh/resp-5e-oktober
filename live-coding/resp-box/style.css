@@ -1,0 +1,30 @@
+html, body {
+  width: 100%;
+  height: 100vh;
+}
+
+.box {
+  height: 10%;
+  line-height: 5em;
+  background-color: #c3c3c3;
+  margin: 2em;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .tablet {
+    background-color: rgb(255, 143, 143);
+  }
+}
+
+@media screen and (min-width: 978px) {
+  .laptop {
+    background-color: rgb(255, 55, 55);
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .desktop {
+    background-color: rgb(255, 0, 0);
+  }
+}

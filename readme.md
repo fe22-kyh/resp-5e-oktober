@@ -8,5 +8,5 @@
 2. [Responsive asian food site](exercises/exercise_asianfood.md)
 
 
-## Extra
+## Extra stuff
 - [Beginner guide to media queries, med landskapsläge](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
